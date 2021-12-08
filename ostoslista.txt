@@ -6,3 +6,4 @@ kinkku
 voi
 vihut
 
+vaipat
