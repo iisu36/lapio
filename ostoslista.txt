@@ -1,7 +1,5 @@
 ostoslista
 
-maito
-leipä
 jugurtti
 juusto
 kinkku
